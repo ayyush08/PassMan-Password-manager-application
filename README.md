@@ -6,6 +6,7 @@ This project is a React application that serves as a password manager using Mong
 
 ## Features
 
+
 - User authentication: Users can create an account and log in to access their password vault.
 - Password encryption: Passwords are encrypted using industry-standard encryption algorithms to ensure security.
 - Password generation: Users can generate strong and unique passwords.
