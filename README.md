@@ -6,13 +6,8 @@ This project is a React application build on top of Vite that serves as a passwo
 
 ## Features
 
-
-- User authentication: Users can create an account and log in to access their password vault.
 - Password encryption: Passwords are encrypted using industry-standard encryption algorithms to ensure security.
-- Password generation: Users can generate strong and unique passwords.
-- Password sharing: Users can securely share passwords with other users.
-- Password expiration: Users can set expiration dates for passwords to enhance security.
-- Password strength analysis: The application provides feedback on the strength of passwords to help users create strong passwords.
+
 
 ## Installation
 
